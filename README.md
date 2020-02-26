@@ -1,4 +1,4 @@
-# MultiParseND2
+# PyParseBio
 Pure python scripts to extract and process images from multipoint ND2-files in a parallelized fashion.
 
 ## Installation: 
