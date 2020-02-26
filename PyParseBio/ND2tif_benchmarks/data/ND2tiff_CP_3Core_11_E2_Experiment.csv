@@ -1,0 +1,292 @@
+Key,Value
+CellProfiler_Version,3.1.8
+ChannelType_Blue,Grayscale
+ChannelType_DIC,Grayscale
+ChannelType_FarRed,Grayscale
+ChannelType_Green,Grayscale
+ChannelType_Red,Grayscale
+ImageSet_Zip_Dictionary,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48T01FIHhtbG5zPSJodHRwOi8vd3d3Lm9wZW5taWNyb3Njb3B5Lm9yZy9TY2hlbWFzL09NRS8yMDE2LTA2Ij48SW1hZ2UgSUQ9IkJsdWUiPjxQaXhlbHMgRGltZW5zaW9uT3JkZXI9IlhZQ1pUIiBJRD0iUGl4ZWxzOkJsdWUiIFNpemVUPSIxIiBTaXplWD0iMTI3OCIgU2l6ZVk9IjE4MDYiPjxUaWZmRGF0YSBGaXJzdEM9IjMiIEZpcnN0VD0iMCIgRmlyc3RaPSIiIElGRD0iMyIgUGxhbmVDb3VudD0iMSI+PFVVSUQgRmlsZU5hbWU9ImZpbGU6Ly8vQzovVXNlcnMvV29sZmdhbmdQZXJuaWNlL0RFVi9HaXRIdWIvTXVsdGlQYXJzZU5EMi9kYXRhc2V0cy9pbnB1dC8xMS8yMDE5LTgtMTRfMjRXLVMzYS1TZWMxLUExXzAxMi5uZDIiLz48L1RpZmZEYXRhPjxQbGFuZSBUaGVDPSIwIiBUaGVUPSIwIiBUaGVaPSIwIj48L1BpeGVscz48L0ltYWdlPjxJbWFnZSBJRD0iR3JlZW4iPjxQaXhlbHMgRGltZW5zaW9uT3JkZXI9IlhZQ1pUIiBJRD0iUGl4ZWxzOkdyZWVuIiBTaXplVD0iMSIgU2l6ZVg9IjEyNzgiIFNpemVZPSIxODA2Ij48VGlmZkRhdGEgRmlyc3RDPSIxIiBGaXJzdFQ9IjAiIEZpcnN0Wj0iIiBJRkQ9IjEiIFBsYW5lQ291bnQ9IjEiPjxVVUlEIEZpbGVOYW1lPSJmaWxlOi8vL0M6L1VzZXJzL1dvbGZnYW5nUGVybmljZS9ERVYvR2l0SHViL011bHRpUGFyc2VORDIvZGF0YXNldHMvaW5wdXQvMTEvMjAxOS04LTE0XzI0Vy1TM2EtU2VjMS1BMV8wMTIubmQyIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCIvPjwvUGl4ZWxzPjwvSW1hZ2U+PEltYWdlIElEPSJSZWQiPjxQaXhlbHMgRGltZW5zaW9uT3JkZXI9IlhZQ1pUIiBJRD0iUGl4ZWxzOlJlZCIgU2l6ZVQ9IjEiIFNpemVYPSIxMjc4IiBTaXplWT0iMTgwNiI+PFRpZmZEYXRhIEZpcnN0Qz0iMiIgRmlyc3RUPSIwIiBGaXJzdFo9IiIgSUZEPSIyIiBQbGFuZUNvdW50PSIxIj48VVVJRCBGaWxlTmFtZT0iZmlsZTovLy9DOi9Vc2Vycy9Xb2xmZ2FuZ1Blcm5pY2UvREVWL0dpdEh1Yi9NdWx0aVBhcnNlTkQyL2RhdGFzZXRzL2lucHV0LzExLzIwMTktOC0xNF8yNFctUzNhLVNlYzEtQTFfMDEyLm5kMiIvPjwvVGlmZkRhdGE+PFBsYW5lIFRoZUM9IjAiIFRoZVQ9IjAiIFRoZVo9IjAiPjwvUGl4ZWxzPjwvSW1hZ2U+PEltYWdlIElEPSJGYXJSZWQiPjxQaXhlbHMgRGltZW5zaW9uT3JkZXI9IlhZQ1pUIiBJRD0iUGl4ZWxzOkZhclJlZCIgU2l6ZVQ9IjEiIFNpemVYPSIxMjc4IiBTaXplWT0iMTgwNiI+PFRpZmZEYXRhIEZpcnN0Qz0iMCIgRmlyc3RUPSIwIiBGaXJzdFo9IjAiIElGRD0iMCIgUGxhbmVDb3VudD0iMSI+PFVVSUQgRmlsZU5hbWU9ImZpbGU6Ly8vQzovVXNlcnMvV29sZmdhbmdQZXJuaWNlL0RFVi9HaXRIdWIvTXVsdGlQYXJzZU5EMi9kYXRhc2V0cy9pbnB1dC8xMS8yMDE5LTgtMTRfMjRXLVMzYS1TZWMxLUExXzAxMi5uZDIiLz48L1RpZmZEYXRhPjxQbGFuZSBUaGVDPSIwIiBUaGVUPSIwIiBUaGVaPSIwIi8+PC9QaXhlbHM+PC9JbWFnZT48SW1hZ2UgSUQ9IkRJQyI+PFBpeGVscyBEaW1lbnNpb25PcmRlcj0iWFlDWlQiIElEPSJQaXhlbHM6RElDIiBTaXplVD0iMSIgU2l6ZVg9IjEyNzgiIFNpemVZPSIxODA2Ij48VGlmZkRhdGEgRmlyc3RDPSI0IiBGaXJzdFQ9IjAiIEZpcnN0Wj0iMCI0IiBQbGFuZUNvdW50PSIxIj48VVVJRCBGaWxlTmFtZT0iZmlsZTovLy9DOi9Vc2Vycy9Xb2xmZ2FuZ1Blcm5pY2UvREVWL0dpdEh1Yi9NdWx0aVBhcnNlTkQyL2RhdGFzZXRzL2lucHV0LzExLzIwMTktOC0xNF8yNFctUzNhLVNlYzEtQTFfMDEyLm5kMiIvPjwvVGlmZkRhdGE+PFBsYW5lIFRoZUM9IjAiIFRoZVQ9IjAiIFRoZVo9IjAiTzgiIFBsYW5lQ291bnQ9IjEiPjxVVUlEIEZpbGVOYW1lPSJmaWxlOi8vL0M6L1VzZXJzL1dvbGZnYW5nUGVybmljZS9ERVYvR2l0SHViL011bHRpUGFyc2VORDIvZGF0YXNldHMvaW5wdXQvMTEvMjAxOS04LTE0XzI0Vy1TM2EtU2VjMS1BMV8wMTIubmQyIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCI+PEFubm90YXRpb25SZWYgSUQ9ImluZm86Ly9jZWxscHJvZmlsZXIub3JnL2ltYWdlc2V0L2Fubm90YXRpb24vMjAxNC0wNC0xNy9TZXJpZXMvNiIgUGxhbmVDb3VudD0iMSI+PFVVSUQgRmlsZU5hbWU9ImZpbGU6Ly8vQzovVXNlcnMvV29sZmdhbmdQZXJuaWNlL0RFVi9HaXRIdWIvTXVsdGlQYXJzZU5EMi9kYXRhc2V0cy9pbnB1dC8xMS8yMDE5LTgtMTRfMjRXLVMzYS1TZWMxLUExXzAxMi5uZDIiLz48L1RpZmZEYXRhPjxQbGFuZSBUaGVDPSIwIiBUaGVUPSIwIiBUaGVaPSIwIj48QW5ub3RhdGlvblJlZiBJRD0iaW5mbzovL2NlbGxwcm9maWxlci5vcmcvaW1hZ2VzZXQvYW5ub3RhdGlvbi8yMDE0LTA0LTE3L1Nlcmllcy8yIi8+PC9QbGFuZT48L1BpeGVscz48L0ltYWdlPjw3IiBQbGFuZUNvdW50PSIxIj48VVVJRCBGaWxlTmFtZT0iZmlsZTovLy9DOi9Vc2Vycy9Xb2xmZ2FuZ1Blcm5pY2UvREVWL0dpdEh1Yi9NdWx0aVBhcnNlTkQyL2RhdGFzZXRzL2lucHV0LzExLzIwMTktOC0xNF8yNFctUzNhLVNlYzEtQTFfMDEyLm5kMiIvPjwvVGlmZkRhdGE+PFBsYW5lIFRoZUM9IjAiIFRoZVQ9IjAiIFRoZVo9IjAiPjxBbm5vdGF0aW9uUmVmIElEPSJpbmZvOi8vY2VsbHByb2ZpbGVyLm9yZy9pbWFnZXNldC9hbm5vdGF0aW9uLzIwMTQtMDQtMTcvU2VyaWVzLyIgRmlyc3RUPSIwIiBGaXJzdFo9IjUiIElGRD0iMjUiIFBsYW5lQ291bnQ9IjEiPjxVVUlEIEZpbGVOYW1lPSJmaWxlOi8vL0M6L1VzZXJzL1dvbGZnYW5nUGVybmljZS9ERVYvR2l0SHViL011bHRpUGFyc2VORDIvZGF0YXNldHMvaW5wdXQvMTEvMjAxOS04LTE0XzI0Vy1TM2EtU2VjMS1BMV8wMTIubmQyIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCI+PEFubm90YXRpb25SZWYgSUQ9ImluZm86Ly9jZWxscHJvZmlsZXIub3JnL2ltYWdlc2V0L2Fubm90YXRpb24vMjAxNC0wNC0xNy9TZXJpZXMvMiIvPjwvUGxhbmU+PC9QaXhlbHM+PC9JbWFnZT48SW1hZ2UgSUQ9Ij0iNSIgOSIgUGxhbmVDb3VudD0iMSI+PFVVSUQgRmlsZU5hbWU9ImZpbGU6Ly8vQzovVXNlcnMvV29sZmdhbmdQZXJuaWNlL0RFVi9HaXRIdWIvTXVsdGlQYXJzZU5EMi9kYXRhc2V0cy9pbnB1dC8xMS8yMDE5LTgtMTRfMjRXLVMzYS1TZWMxLUExXzAxMi5uZDIiLz48L1RpZmZEYXRhPjxQbGFuZSBUaGVDPSIwIiBUaGVUPSIwIiBUaGVaPSIwIj48QW5ub3RhdGlvblJlZiBJRD0iaW5mbzovL2NlbGxwcm9maWxlci5vcmcvaW1hZ2VzZXQvYW5ub3RhdGlvbi8yMDE0LTA0LTE3L1Nlcmllcy8yIi8+PC88cz48IiBQbGFuZUNvdW50PSIxIj48VVVJRCBGaWxlTmFtZT0iZmlsZTovLy9DOi9Vc2Vycy9Xb2xmZ2FuZ1Blcm5pY2UvREVWL0dpdEh1Yi9NdWx0aVBhcnNlTkQyL2RhdGFzZXRzL2lucHV0LzExLzIwMTktOC0xNF8yNFctUzNhLVNlYzEtQTFfMDEyLm5kMiIvPjwvVGlmZkRhdGE+PFBsYW5lIFRoZUM9IjAiIFRoZVQ9IjAiIFRoZVo9IjAiPjxBbm5vdGF0aW9uUmVmIElEPSJpbmZvOi8vY2VsbHByb2ZpbGVyLm9yZy9pbWFnZXNldC9hbm5vdGF0aW9uLzIwMTQtMDQtMTcvU2VyaWVzLzUiLz48L1BsYW5lPjwvUGl4ZWxzPjwvSW1hZ2U+PCIgRmlyc3RUPSIwIiBGaXJzdFo9IjMiIElGRD0iMSIgUGxhbmVDb3VudD0iMSI+PFVVSUQgRmlsZU5hbWU9ImZpbGU6Ly8vQzovVXNlcnMvV29sZmdhbmdQZXJuaWNlL0RFVi9HaXRIdWIvTXVsdGlQYXJzZU5EMi9kYXRhc2V0cy9pbnB1dC8xMS8yMDE5LTgtMTRfMjRXLVMzYS1TZWMxLUExXzAxMi5uZDIiLz48L1RpZmZEYXRhPjxQbGFuZSBUaGVDPSIwIiBUaGVUPSIwIiBUaGVaPSIwIj48QW5ub3RhdGlvblJlZiBJRD0iaW5mbzovL2NlbGxwcm9maWxlci5vcmcvaW1hZ2VzZXQvYW5ub3RhdGlvbi8yMDE0LTA0LTE3L1Nlcmllcy81Ii8+PC9QbGFuZT48L1BpeGVscz48L0ltYWdlPjxJbWFnZSBJRD0iIiBJRkQ9IjU4IiAiLz48L1BsYW5lPjwvUGl4ZWxzPjwvSW1hZ2U+PEltYWdlIElEPSJHcmVlbiI+PFBpeGVscyBEaW1lbnNpb25PcmRlcj0iWFlDWlQiIElEPSJQaXhlbHM6R3JlZW4iIFNpemVUPSIxIiBTaXplWD0iMTI3OCIgU2l6ZVk9IjE4MDYiPjxUaWZmRGF0YSBGaXJzdEM9IjEiIEZpcnN0VD0iMCIgRmlyc3RaPSI2IiBQbGFuZUNvdW50PSIxIj48VVVJRCBGaWxlTmFtZT0iZmlsZTovLy9DOi9Vc2Vycy9Xb2xmZ2FuZ1Blcm5pY2UvREVWL0dpdEh1Yi9NdWx0aVBhcnNlTkQyL2RhdGFzZXRzL2lucHV0LzExLzIwMTktOC0xNF8yNFctUzNhLVNlYzEtQTFfMDEyLm5kMiIvPjwvVGlmZkRhdGE+PFBsYW5lIFRoZUM9IjAiIFRoZVQ9IjAiIFRoZVo9IjAiPjxBbm5vdGF0aW9uUmVmIElEPSJpbmZvOi8vY2VsbHByb2ZpbGVyLm9yZy9pbWFnZXNldC9hbm5vdGF0aW9uLzIwMTQtMDQtMTcvU2VyaWVzLzgiLz48L1BsYW5lPjwvUGl4ZWxzPjwvSW1hZ2U+PEltYWdlIElEPSJSZWQiPjxQaXhlbHMgRGltZW5zaW9uT3JkZXI9IlhZQ1pUIiBJRD0iUGl4ZWxzOlJlZCIgU2l6ZVQ9IjEiIFNpemVYPSIxMjc4IiBTaXplWT0iMTgwNiI+PFRpZmZEYXRhIEZpcnN0Qz0iMiIgRmlyc3RUPSIwIiBGaXJzdFo9IjciIi8+PC9QbGFuZT48L1BpeGVscz48L0ltYWdlPjxJbWFnZSBJRD0iRmFyUmVkIj48UGl4ZWxzIERpbWVuc2lvbk9yZGVyPSJYWUNaVCIgSUQ9IlBpeGVsczpGYXJSZWQiIFNpemVUPSIxIiBTaXplWD0iMTI3OCIgU2l6ZVk9IjE4MDYiPjxUaWZmRGF0YSBGaXJzdEM9IjAiIEZpcnN0VD0iMCIgRmlyc3RaPSIxIiBJRkQ9IjUiIFBsYW5lQ291bnQ9IjEiPjxVVUlEIEZpbGVOYW1lPSJmaWxlOi8vL0M6L1VzZXJzL1dvbGZnYW5nUGVybmljZS9ERVYvR2l0SHViL011bHRpUGFyc2VORDIvZGF0YXNldHMvaW5wdXQvMTEvMjAxOS04LTE0XzI0Vy1TM2EtU2VjMS1BMV8wMTIubmQyIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCI+PEFubm90YXRpb25SZWYgSUQ9ImluZm86Ly9jZWxscHJvZmlsZXIub3JnL2ltYWdlc2V0L2Fubm90YXRpb24vMjAxNC0wNC0xNy9TZXJpZXMvOCIvPjwvUGxhbmU+PC9QaXhlbHM+PC9JbWFnZT48SW1hZ2UgSUQ9IkRJQyI+PFBpeGVscyBEaW1lbnNpb25PcmRlcj0iWFlDWlQiIElEPSJQaXhlbHM6RElDIiBTaXplVD0iMSIgU2l6ZVg9IjEyNzgiIFNpemVZPSIxODA2Ij48VGlmZkRhdGEgRmlyc3RDPSI0IiBGaXJzdFQ9IjAiIEZpcnN0Wj0iOWFuPSIxVUlEIEZpTmFtZT0iZmlsZTovLzplcnNpY2UvRFZHdXRpUHNlTmF0dC8tMVctU1NlY0FfMDEyMj48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCJaPSIwIj48ZiBJaW5vZWxyb2VyZy9pbWFzZXQvMjAxNC0wU2VyaWVzIi8+PC9lPjwvUHhzPjwvcmVMb25nQW5ub3RhdGlvbj0iaW5mbzovL2NlbGxwcm9maWxlci5vcmcvaW1hZ2VzZXQvYW5ub3RhdGlvbi8yMDE0LTA0LTE3Y3JyaTwvRGVzY3JpcHRpb24+eG1sc2lvbi4wImNvbmdGLTg/T01FbnNwOi93dy5vcHNjLm9yZy9TaG1hcy9PTUUtMDYiPjxJbWFnZSBJRD0ibHVlIj48UGl4ZWxzIERpbWVuc2lvbk9yZGVyPSJYWUNaVCIgSUQ9IlBpeGVsczpCbHVlIj0iMyIgM2VuR3JlZW4iPSIxIiAiIFBsYW5lQ291bnQ9IjEiPjxVVUlEIEZpbGVOYW1lPSJmaWxlOi8vL0M6L1VzZXJzL1dvbGZnYW5nUGVybmljZS9ERVYvR2l0SHViL011bHRpUGFyc2VORDIvZGF0YXNldHMvaW5wdXQvMTEvMjAxOS04LTE0XzI0Vy1TM2EtU2VjMS1BMV8wMTIubmQyIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCI+PEFubm90YXRpb25SZWYgSUQ9ImluZm86Ly9jZWxscHJvZmlsZXIub3JnL2ltYWdlc2V0L2Fubm90YXRpb24vMjAxNC0wNC0xNy9TZXJpZXMvMTAiLz48L1BsYW5lPjwvUGl4ZWxzPjwvSW1hZ2U+PEltYWdlIFJlZD48UGl4ZWxzIFQiIElSZWQiPSIyIiAyImFyUmVkIj48UGl4ZWxzIERpbWVuc2lvbk9yZGVyPSJYWUNaVCIgSUQ9IlBpeGVsczpGYXJSZWQiIFNpemVUPSIxIiBTaXplWD0iMTI3OCIgU2l6ZVk9IjE4MDYiPjxUaWZmRGF0YSBGaXJzdEM9IjAiIEZpcnN0VD0iMCIgRmlyc3RaPSI2IiBJRkQ9IjMiIFBsYW5lQ291bnQ9IjEiPjxVVUlEIEZpbGVOYW1lPSJmaWxlOi8vL0M6L1VzZXJzL1dvbGZnYW5nUGVybmljZS9ERVYvR2l0SHViL011bHRpUGFyc2VORDIvZGF0YXNldHMvaW5wdXQvMTEvMjAxOS04LTE0XzI0Vy1TM2EtU2VjMS1BMV8wMTIubmQyIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCI+PEFubm90YXRpb25SZWYgSUQ9ImluZm86Ly9jZWxscHJvZmlsZXIub3JnL2ltYWdlc2V0L2Fubm90YXRpb24vMjAxNC0wNC0xNy9TZXJpZXMvMTAiLz48L1BsYW5lPjwvUGl4ZWxzPjwvSW1hZ2U+PEltYWdlIElEPSJJQ0RJQyIgU2l6ZT0iMSJYOCJZNlRpZmZEYXRhIEZpcnN0PSI0IiBGaXJzdFQ9IjAiIFo9IjYiIDQiIFBsYW5lQ291bnQ9IjEiPjxVVUlEIEZpbGVOYW1lPSJmaWxlOi8vL0M6L1VzZXJzL1dvbGZnYW5nUGVybmljZS9ERVYvR2l0SHViL011bHRpUGFyc2VORDIvZGF0YXNldHMvaW5wdXQvMTEvMjAxOS04LTE0XzI0Vy1TM2EtU2VjMS1BMV8wMTIubmQyIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCI+PEFubm90YXRpb25SZWYgSUQ9ImluZm86Ly9jZWxscHJvZmlsZXIub3JnL2ltYWdlc2V0L2Fubm90YXRpb24vMjAxNC0wNC0xNy9TZXJpZXMvMTAiLz48L1BsYW5lPjwvUGl4ZWxzPjwvSW1hZ2U+PFN0cnVjdHVyZWRBbm5vdGF0aW9ucz48TG9uZ0Fubm90YXRpb24gSUQ9ImluZm86Ly9jZWxscHJvZmlsZXIub3JnL2ltYWdlc2V0L2Fubm90YXRpb24vMjAxNC0wNC0xNy9TZXJpZXMvIiBOYW1lc3BhY2U9ImluZm86Ly9jZWxscHJvZmlsZXIub3JnL2ltYWdlc2V0L2Fubm90YXRpb24vMjAxNC0wNC0xNyI+PERlc2NyaXB0aW9uPlNlcmllczwvRGVzY3JpcHRpb24+PFZhbHVlPg==
+Metadata_GroupingTags,"[""Metadata_Series""]"
+Metadata_Tags,"[""ImageNumber""]"
+Pipeline_Pipeline,"CellProfiler Pipeline: http://www.cellprofiler.org
+Version:4
+DateRevision:318
+GitHash:
+ModuleCount:18
+HasImagePlaneDetails:False
+
+Images:[module_num:1|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\'To begin creating your project, use the Images module to compile a list of files and/or folders that you want to analyze. You can also specify a set of rules to include only the desired files in your selected folders.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    :\xff\xfe
+    Filter images?:\xff\xfeI\x00m\x00a\x00g\x00e\x00s\x00 \x00o\x00n\x00l\x00y\x00
+    Select the rule criteria:\xff\xfea\x00n\x00d\x00 \x00(\x00e\x00x\x00t\x00e\x00n\x00s\x00i\x00o\x00n\x00 \x00d\x00o\x00e\x00s\x00 \x00i\x00s\x00i\x00m\x00a\x00g\x00e\x00)\x00 \x00(\x00d\x00i\x00r\x00e\x00c\x00t\x00o\x00r\x00y\x00 \x00d\x00o\x00e\x00s\x00n\x00o\x00t\x00 \x00c\x00o\x00n\x00t\x00a\x00i\x00n\x00r\x00e\x00g\x00e\x00x\x00p\x00 \x00""\x00\x5B\x00\\\x00\\\x00\\\x00\\\x00/\x00\x5D\x00\\\x00\\\x00.\x00""\x00)\x00
+
+Metadata:[module_num:2|svn_version:\'Unknown\'|variable_revision_number:5|show_window:False|notes:\x5B\'The Metadata module optionally allows you to extract information describing your images (i.e, metadata) which will be stored along with your measurements. This information can be contained in the file name and/or location, or in an external file.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Extract metadata?:\xff\xfeY\x00e\x00s\x00
+    Metadata data type:\xff\xfeT\x00e\x00x\x00t\x00
+    Metadata types:\xff\xfe{\x00}\x00
+    Extraction method count:\xff\xfe2\x00
+    Metadata extraction method:\xff\xfeE\x00x\x00t\x00r\x00a\x00c\x00t\x00 \x00f\x00r\x00o\x00m\x00 \x00f\x00i\x00l\x00e\x00/\x00f\x00o\x00l\x00d\x00e\x00r\x00 \x00n\x00a\x00m\x00e\x00s\x00
+    Metadata source:\xff\xfeF\x00i\x00l\x00e\x00 \x00n\x00a\x00m\x00e\x00
+    Regular expression to extract from file name:\xff\xfe^\x00(\x00?\x00P\x00<\x00P\x00l\x00a\x00t\x00e\x00>\x00.\x00*\x00)\x00_\x00(\x00?\x00P\x00<\x00W\x00e\x00l\x00l\x00>\x00\x5B\x00A\x00-\x00P\x00\x5D\x00\x5B\x000\x00-\x009\x00\x5D\x00{\x002\x00}\x00)\x00_\x00s\x00(\x00?\x00P\x00<\x00S\x00i\x00t\x00e\x00>\x00\x5B\x000\x00-\x009\x00\x5D\x00)\x00_\x00w\x00(\x00?\x00P\x00<\x00C\x00h\x00a\x00n\x00n\x00e\x00l\x00N\x00u\x00m\x00b\x00e\x00r\x00>\x00\x5B\x000\x00-\x009\x00\x5D\x00)\x00
+    Regular expression to extract from folder name:\xff\xfe(\x00?\x00P\x00<\x00D\x00a\x00t\x00e\x00>\x00\x5B\x000\x00-\x009\x00\x5D\x00{\x004\x00}\x00_\x00\x5B\x000\x00-\x009\x00\x5D\x00{\x002\x00}\x00_\x00\x5B\x000\x00-\x009\x00\x5D\x00{\x002\x00}\x00)\x00$\x00
+    Extract metadata from:\xff\xfeA\x00l\x00l\x00 \x00i\x00m\x00a\x00g\x00e\x00s\x00
+    Select the filtering criteria:\xff\xfea\x00n\x00d\x00 \x00(\x00f\x00i\x00l\x00e\x00 \x00d\x00o\x00e\x00s\x00 \x00c\x00o\x00n\x00t\x00a\x00i\x00n\x00 \x00""\x00""\x00)\x00
+    Metadata file location:\xff\xfeE\x00l\x00s\x00e\x00w\x00h\x00e\x00r\x00e\x00.\x00.\x00.\x00\x7C\x00
+    Match file and image metadata:\xff\xfe\x5B\x00\x5D\x00
+    Use case insensitive matching?:\xff\xfeN\x00o\x00
+    Metadata file name:\xff\xfeN\x00o\x00n\x00e\x00
+    Metadata extraction method:\xff\xfeE\x00x\x00t\x00r\x00a\x00c\x00t\x00 \x00f\x00r\x00o\x00m\x00 \x00i\x00m\x00a\x00g\x00e\x00 \x00f\x00i\x00l\x00e\x00 \x00h\x00e\x00a\x00d\x00e\x00r\x00s\x00
+    Metadata source:\xff\xfeF\x00i\x00l\x00e\x00 \x00n\x00a\x00m\x00e\x00
+    Regular expression to extract from file name:\xff\xfe^\x00(\x00?\x00P\x00<\x00P\x00l\x00a\x00t\x00e\x00>\x00.\x00*\x00)\x00_\x00(\x00?\x00P\x00<\x00W\x00e\x00l\x00l\x00>\x00\x5B\x00A\x00-\x00P\x00\x5D\x00\x5B\x000\x00-\x009\x00\x5D\x00{\x002\x00}\x00)\x00_\x00s\x00(\x00?\x00P\x00<\x00S\x00i\x00t\x00e\x00>\x00\x5B\x000\x00-\x009\x00\x5D\x00)\x00_\x00w\x00(\x00?\x00P\x00<\x00C\x00h\x00a\x00n\x00n\x00e\x00l\x00N\x00u\x00m\x00b\x00e\x00r\x00>\x00\x5B\x000\x00-\x009\x00\x5D\x00)\x00
+    Regular expression to extract from folder name:\xff\xfe(\x00?\x00P\x00<\x00D\x00a\x00t\x00e\x00>\x00\x5B\x000\x00-\x009\x00\x5D\x00{\x004\x00}\x00_\x00\x5B\x000\x00-\x009\x00\x5D\x00{\x002\x00}\x00_\x00\x5B\x000\x00-\x009\x00\x5D\x00{\x002\x00}\x00)\x00$\x00
+    Extract metadata from:\xff\xfeA\x00l\x00l\x00 \x00i\x00m\x00a\x00g\x00e\x00s\x00
+    Select the filtering criteria:\xff\xfea\x00n\x00d\x00 \x00(\x00f\x00i\x00l\x00e\x00 \x00d\x00o\x00e\x00s\x00 \x00c\x00o\x00n\x00t\x00a\x00i\x00n\x00 \x00""\x00""\x00)\x00
+    Metadata file location:\xff\xfeE\x00l\x00s\x00e\x00w\x00h\x00e\x00r\x00e\x00.\x00.\x00.\x00\x7C\x00
+    Match file and image metadata:\xff\xfe\x5B\x00\x5D\x00
+    Use case insensitive matching?:\xff\xfeN\x00o\x00
+    Metadata file name:\xff\xfeN\x00o\x00n\x00e\x00
+
+NamesAndTypes:[module_num:3|svn_version:\'Unknown\'|variable_revision_number:8|show_window:False|notes:\x5B\'The NamesAndTypes module allows you to assign a meaningful name to each image by which other modules will refer to it.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Assign a name to:\xff\xfeI\x00m\x00a\x00g\x00e\x00s\x00 \x00m\x00a\x00t\x00c\x00h\x00i\x00n\x00g\x00 \x00r\x00u\x00l\x00e\x00s\x00
+    Select the image type:\xff\xfeG\x00r\x00a\x00y\x00s\x00c\x00a\x00l\x00e\x00 \x00i\x00m\x00a\x00g\x00e\x00
+    Name to assign these images:\xff\xfeD\x00N\x00A\x00
+    Match metadata:\xff\xfe\x5B\x00{\x00u\x00\'\x00B\x00l\x00u\x00e\x00\'\x00\x3A\x00 \x00u\x00\'\x00S\x00e\x00r\x00i\x00e\x00s\x00\'\x00,\x00 \x00u\x00\'\x00G\x00r\x00e\x00e\x00n\x00\'\x00\x3A\x00 \x00u\x00\'\x00S\x00e\x00r\x00i\x00e\x00s\x00\'\x00,\x00 \x00u\x00\'\x00R\x00e\x00d\x00\'\x00\x3A\x00 \x00u\x00\'\x00S\x00e\x00r\x00i\x00e\x00s\x00\'\x00,\x00 \x00u\x00\'\x00F\x00a\x00r\x00R\x00e\x00d\x00\'\x00\x3A\x00 \x00u\x00\'\x00S\x00e\x00r\x00i\x00e\x00s\x00\'\x00,\x00 \x00u\x00\'\x00D\x00I\x00C\x00\'\x00\x3A\x00 \x00u\x00\'\x00S\x00e\x00r\x00i\x00e\x00s\x00\'\x00}\x00\x5D\x00
+    Image set matching method:\xff\xfeO\x00r\x00d\x00e\x00r\x00
+    Set intensity range from:\xff\xfeI\x00m\x00a\x00g\x00e\x00 \x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00
+    Assignments count:\xff\xfe5\x00
+    Single images count:\xff\xfe0\x00
+    Maximum intensity:\xff\xfe2\x005\x005\x00.\x000\x00
+    Process as 3D?:\xff\xfeN\x00o\x00
+    Relative pixel spacing in X:\xff\xfe0\x00.\x001\x000\x003\x00
+    Relative pixel spacing in Y:\xff\xfe0\x00.\x001\x000\x003\x00
+    Relative pixel spacing in Z:\xff\xfe0\x00.\x005\x00
+    Select the rule criteria:\xff\xfea\x00n\x00d\x00 \x00(\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00 \x00d\x00o\x00e\x00s\x00 \x00C\x00h\x00a\x00n\x00n\x00e\x00l\x00N\x00a\x00m\x00e\x00 \x00""\x004\x000\x005\x00""\x00)\x00
+    Name to assign these images:\xff\xfeB\x00l\x00u\x00e\x00
+    Name to assign these objects:\xff\xfeC\x00e\x00l\x00l\x00
+    Select the image type:\xff\xfeG\x00r\x00a\x00y\x00s\x00c\x00a\x00l\x00e\x00 \x00i\x00m\x00a\x00g\x00e\x00
+    Set intensity range from:\xff\xfeI\x00m\x00a\x00g\x00e\x00 \x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00
+    Maximum intensity:\xff\xfe2\x005\x005\x00.\x000\x00
+    Select the rule criteria:\xff\xfea\x00n\x00d\x00 \x00(\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00 \x00d\x00o\x00e\x00s\x00 \x00C\x00h\x00a\x00n\x00n\x00e\x00l\x00N\x00a\x00m\x00e\x00 \x00""\x004\x008\x008\x00""\x00)\x00
+    Name to assign these images:\xff\xfeG\x00r\x00e\x00e\x00n\x00
+    Name to assign these objects:\xff\xfeC\x00e\x00l\x00l\x00
+    Select the image type:\xff\xfeG\x00r\x00a\x00y\x00s\x00c\x00a\x00l\x00e\x00 \x00i\x00m\x00a\x00g\x00e\x00
+    Set intensity range from:\xff\xfeI\x00m\x00a\x00g\x00e\x00 \x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00
+    Maximum intensity:\xff\xfe2\x005\x005\x00.\x000\x00
+    Select the rule criteria:\xff\xfea\x00n\x00d\x00 \x00(\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00 \x00d\x00o\x00e\x00s\x00 \x00C\x00h\x00a\x00n\x00n\x00e\x00l\x00N\x00a\x00m\x00e\x00 \x00""\x005\x006\x001\x00""\x00)\x00
+    Name to assign these images:\xff\xfeR\x00e\x00d\x00
+    Name to assign these objects:\xff\xfeC\x00e\x00l\x00l\x00
+    Select the image type:\xff\xfeG\x00r\x00a\x00y\x00s\x00c\x00a\x00l\x00e\x00 \x00i\x00m\x00a\x00g\x00e\x00
+    Set intensity range from:\xff\xfeI\x00m\x00a\x00g\x00e\x00 \x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00
+    Maximum intensity:\xff\xfe2\x005\x005\x00.\x000\x00
+    Select the rule criteria:\xff\xfea\x00n\x00d\x00 \x00(\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00 \x00d\x00o\x00e\x00s\x00 \x00C\x00h\x00a\x00n\x00n\x00e\x00l\x00N\x00a\x00m\x00e\x00 \x00""\x006\x004\x007\x00""\x00)\x00
+    Name to assign these images:\xff\xfeF\x00a\x00r\x00R\x00e\x00d\x00
+    Name to assign these objects:\xff\xfeC\x00e\x00l\x00l\x00
+    Select the image type:\xff\xfeG\x00r\x00a\x00y\x00s\x00c\x00a\x00l\x00e\x00 \x00i\x00m\x00a\x00g\x00e\x00
+    Set intensity range from:\xff\xfeI\x00m\x00a\x00g\x00e\x00 \x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00
+    Maximum intensity:\xff\xfe2\x005\x005\x00.\x000\x00
+    Select the rule criteria:\xff\xfea\x00n\x00d\x00 \x00(\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00 \x00d\x00o\x00e\x00s\x00 \x00C\x00h\x00a\x00n\x00n\x00e\x00l\x00N\x00a\x00m\x00e\x00 \x00""\x00d\x00i\x00c\x00""\x00)\x00
+    Name to assign these images:\xff\xfeD\x00I\x00C\x00
+    Name to assign these objects:\xff\xfeC\x00e\x00l\x00l\x00
+    Select the image type:\xff\xfeG\x00r\x00a\x00y\x00s\x00c\x00a\x00l\x00e\x00 \x00i\x00m\x00a\x00g\x00e\x00
+    Set intensity range from:\xff\xfeI\x00m\x00a\x00g\x00e\x00 \x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00
+    Maximum intensity:\xff\xfe2\x005\x005\x00.\x000\x00
+
+Groups:[module_num:4|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\'The Groups module optionally allows you to split your list of images into image subsets (groups) which will be processed independently of each other. Examples of groupings include screening batches, microtiter plates, time-lapse movies, etc.\'\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Do you want to group your images?:\xff\xfeY\x00e\x00s\x00
+    grouping metadata count:\xff\xfe1\x00
+    Metadata category:\xff\xfeS\x00e\x00r\x00i\x00e\x00s\x00
+
+RescaleIntensity:[module_num:5|svn_version:\'Unknown\'|variable_revision_number:3|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:\xff\xfeB\x00l\x00u\x00e\x00
+    Name the output image:\xff\xfeR\x00e\x00s\x00c\x00a\x00l\x00e\x00d\x00B\x00l\x00u\x00e\x00
+    Rescaling method:\xff\xfeC\x00h\x00o\x00o\x00s\x00e\x00 \x00s\x00p\x00e\x00c\x00i\x00f\x00i\x00c\x00 \x00v\x00a\x00l\x00u\x00e\x00s\x00 \x00t\x00o\x00 \x00b\x00e\x00 \x00r\x00e\x00s\x00e\x00t\x00 \x00t\x00o\x00 \x00t\x00h\x00e\x00 \x00f\x00u\x00l\x00l\x00 \x00i\x00n\x00t\x00e\x00n\x00s\x00i\x00t\x00y\x00 \x00r\x00a\x00n\x00g\x00e\x00
+    Method to calculate the minimum intensity:\xff\xfeC\x00u\x00s\x00t\x00o\x00m\x00
+    Method to calculate the maximum intensity:\xff\xfeC\x00u\x00s\x00t\x00o\x00m\x00
+    Lower intensity limit for the input image:\xff\xfe0\x00.\x000\x00
+    Upper intensity limit for the input image:\xff\xfe1\x00.\x000\x00
+    Intensity range for the input image:\xff\xfe0\x00.\x000\x00,\x000\x00.\x000\x006\x002\x005\x00
+    Intensity range for the output image:\xff\xfe0\x00.\x000\x00,\x001\x00.\x000\x00
+    Select image to match in maximum intensity:\xff\xfeN\x00o\x00n\x00e\x00
+    Divisor value:\xff\xfe1\x00.\x000\x00
+    Divisor measurement:\xff\xfeN\x00o\x00n\x00e\x00
+
+RescaleIntensity:[module_num:6|svn_version:\'Unknown\'|variable_revision_number:3|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:\xff\xfeG\x00r\x00e\x00e\x00n\x00
+    Name the output image:\xff\xfeR\x00e\x00s\x00c\x00a\x00l\x00e\x00d\x00G\x00r\x00e\x00e\x00n\x00
+    Rescaling method:\xff\xfeC\x00h\x00o\x00o\x00s\x00e\x00 \x00s\x00p\x00e\x00c\x00i\x00f\x00i\x00c\x00 \x00v\x00a\x00l\x00u\x00e\x00s\x00 \x00t\x00o\x00 \x00b\x00e\x00 \x00r\x00e\x00s\x00e\x00t\x00 \x00t\x00o\x00 \x00t\x00h\x00e\x00 \x00f\x00u\x00l\x00l\x00 \x00i\x00n\x00t\x00e\x00n\x00s\x00i\x00t\x00y\x00 \x00r\x00a\x00n\x00g\x00e\x00
+    Method to calculate the minimum intensity:\xff\xfeC\x00u\x00s\x00t\x00o\x00m\x00
+    Method to calculate the maximum intensity:\xff\xfeC\x00u\x00s\x00t\x00o\x00m\x00
+    Lower intensity limit for the input image:\xff\xfe0\x00.\x000\x00
+    Upper intensity limit for the input image:\xff\xfe1\x00.\x000\x00
+    Intensity range for the input image:\xff\xfe0\x00.\x000\x00,\x000\x00.\x000\x006\x002\x005\x00
+    Intensity range for the output image:\xff\xfe0\x00.\x000\x00,\x001\x00.\x000\x00
+    Select image to match in maximum intensity:\xff\xfeN\x00o\x00n\x00e\x00
+    Divisor value:\xff\xfe1\x00.\x000\x00
+    Divisor measurement:\xff\xfeN\x00o\x00n\x00e\x00
+
+RescaleIntensity:[module_num:7|svn_version:\'Unknown\'|variable_revision_number:3|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:\xff\xfeR\x00e\x00d\x00
+    Name the output image:\xff\xfeR\x00e\x00s\x00c\x00a\x00l\x00e\x00d\x00R\x00e\x00d\x00
+    Rescaling method:\xff\xfeC\x00h\x00o\x00o\x00s\x00e\x00 \x00s\x00p\x00e\x00c\x00i\x00f\x00i\x00c\x00 \x00v\x00a\x00l\x00u\x00e\x00s\x00 \x00t\x00o\x00 \x00b\x00e\x00 \x00r\x00e\x00s\x00e\x00t\x00 \x00t\x00o\x00 \x00t\x00h\x00e\x00 \x00f\x00u\x00l\x00l\x00 \x00i\x00n\x00t\x00e\x00n\x00s\x00i\x00t\x00y\x00 \x00r\x00a\x00n\x00g\x00e\x00
+    Method to calculate the minimum intensity:\xff\xfeC\x00u\x00s\x00t\x00o\x00m\x00
+    Method to calculate the maximum intensity:\xff\xfeC\x00u\x00s\x00t\x00o\x00m\x00
+    Lower intensity limit for the input image:\xff\xfe0\x00.\x000\x00
+    Upper intensity limit for the input image:\xff\xfe1\x00.\x000\x00
+    Intensity range for the input image:\xff\xfe0\x00.\x000\x00,\x000\x00.\x000\x006\x002\x005\x00
+    Intensity range for the output image:\xff\xfe0\x00.\x000\x00,\x001\x00.\x000\x00
+    Select image to match in maximum intensity:\xff\xfeN\x00o\x00n\x00e\x00
+    Divisor value:\xff\xfe1\x00.\x000\x00
+    Divisor measurement:\xff\xfeN\x00o\x00n\x00e\x00
+
+RescaleIntensity:[module_num:8|svn_version:\'Unknown\'|variable_revision_number:3|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:\xff\xfeF\x00a\x00r\x00R\x00e\x00d\x00
+    Name the output image:\xff\xfeR\x00e\x00s\x00c\x00a\x00l\x00e\x00d\x00F\x00a\x00r\x00R\x00e\x00d\x00
+    Rescaling method:\xff\xfeC\x00h\x00o\x00o\x00s\x00e\x00 \x00s\x00p\x00e\x00c\x00i\x00f\x00i\x00c\x00 \x00v\x00a\x00l\x00u\x00e\x00s\x00 \x00t\x00o\x00 \x00b\x00e\x00 \x00r\x00e\x00s\x00e\x00t\x00 \x00t\x00o\x00 \x00t\x00h\x00e\x00 \x00f\x00u\x00l\x00l\x00 \x00i\x00n\x00t\x00e\x00n\x00s\x00i\x00t\x00y\x00 \x00r\x00a\x00n\x00g\x00e\x00
+    Method to calculate the minimum intensity:\xff\xfeC\x00u\x00s\x00t\x00o\x00m\x00
+    Method to calculate the maximum intensity:\xff\xfeC\x00u\x00s\x00t\x00o\x00m\x00
+    Lower intensity limit for the input image:\xff\xfe0\x00.\x000\x00
+    Upper intensity limit for the input image:\xff\xfe1\x00.\x000\x00
+    Intensity range for the input image:\xff\xfe0\x00.\x000\x00,\x000\x00.\x000\x006\x002\x005\x00
+    Intensity range for the output image:\xff\xfe0\x00.\x000\x00,\x001\x00.\x000\x00
+    Select image to match in maximum intensity:\xff\xfeN\x00o\x00n\x00e\x00
+    Divisor value:\xff\xfe1\x00.\x000\x00
+    Divisor measurement:\xff\xfeN\x00o\x00n\x00e\x00
+
+MakeProjection:[module_num:9|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:\xff\xfeR\x00e\x00s\x00c\x00a\x00l\x00e\x00d\x00B\x00l\x00u\x00e\x00
+    Type of projection:\xff\xfeM\x00a\x00x\x00i\x00m\x00u\x00m\x00
+    Name the output image:\xff\xfeP\x00r\x00o\x00j\x00e\x00c\x00t\x00i\x00o\x00n\x00B\x00l\x00u\x00e\x00
+    Frequency:\xff\xfe6\x00.\x000\x00
+
+MakeProjection:[module_num:10|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:\xff\xfeR\x00e\x00s\x00c\x00a\x00l\x00e\x00d\x00G\x00r\x00e\x00e\x00n\x00
+    Type of projection:\xff\xfeM\x00a\x00x\x00i\x00m\x00u\x00m\x00
+    Name the output image:\xff\xfeP\x00r\x00o\x00j\x00e\x00c\x00t\x00i\x00o\x00n\x00G\x00r\x00e\x00e\x00n\x00
+    Frequency:\xff\xfe6\x00.\x000\x00
+
+MakeProjection:[module_num:11|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:\xff\xfeR\x00e\x00s\x00c\x00a\x00l\x00e\x00d\x00R\x00e\x00d\x00
+    Type of projection:\xff\xfeM\x00a\x00x\x00i\x00m\x00u\x00m\x00
+    Name the output image:\xff\xfeP\x00r\x00o\x00j\x00e\x00c\x00t\x00i\x00o\x00n\x00R\x00e\x00d\x00
+    Frequency:\xff\xfe6\x00.\x000\x00
+
+MakeProjection:[module_num:12|svn_version:\'Unknown\'|variable_revision_number:2|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:\xff\xfeR\x00e\x00s\x00c\x00a\x00l\x00e\x00d\x00F\x00a\x00r\x00R\x00e\x00d\x00
+    Type of projection:\xff\xfeM\x00a\x00x\x00i\x00m\x00u\x00m\x00
+    Name the output image:\xff\xfeP\x00r\x00o\x00j\x00e\x00c\x00t\x00i\x00o\x00n\x00F\x00a\x00r\x00R\x00e\x00d\x00
+    Frequency:\xff\xfe6\x00.\x000\x00
+
+Resize:[module_num:13|svn_version:\'Unknown\'|variable_revision_number:4|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:\xff\xfeP\x00r\x00o\x00j\x00e\x00c\x00t\x00i\x00o\x00n\x00B\x00l\x00u\x00e\x00
+    Name the output image:\xff\xfeR\x00e\x00s\x00i\x00z\x00e\x00B\x00l\x00u\x00e\x00
+    Resizing method:\xff\xfeR\x00e\x00s\x00i\x00z\x00e\x00 \x00b\x00y\x00 \x00s\x00p\x00e\x00c\x00i\x00f\x00y\x00i\x00n\x00g\x00 \x00d\x00e\x00s\x00i\x00r\x00e\x00d\x00 \x00f\x00i\x00n\x00a\x00l\x00 \x00d\x00i\x00m\x00e\x00n\x00s\x00i\x00o\x00n\x00s\x00
+    Resizing factor:\xff\xfe0\x00.\x002\x005\x00
+    Width of the final image:\xff\xfe5\x001\x002\x00
+    Height of the final image:\xff\xfe5\x001\x002\x00
+    Interpolation method:\xff\xfeB\x00i\x00c\x00u\x00b\x00i\x00c\x00
+    Method to specify the dimensions:\xff\xfeM\x00a\x00n\x00u\x00a\x00l\x00
+    Select the image with the desired dimensions:\xff\xfeN\x00o\x00n\x00e\x00
+    Additional image count:\xff\xfe3\x00
+    Select the additional image?:\xff\xfeP\x00r\x00o\x00j\x00e\x00c\x00t\x00i\x00o\x00n\x00G\x00r\x00e\x00e\x00n\x00
+    Name the output image:\xff\xfeR\x00e\x00s\x00i\x00z\x00e\x00d\x00G\x00r\x00e\x00e\x00n\x00
+    Select the additional image?:\xff\xfeP\x00r\x00o\x00j\x00e\x00c\x00t\x00i\x00o\x00n\x00R\x00e\x00d\x00
+    Name the output image:\xff\xfeR\x00e\x00s\x00i\x00z\x00e\x00d\x00R\x00e\x00d\x00
+    Select the additional image?:\xff\xfeP\x00r\x00o\x00j\x00e\x00c\x00t\x00i\x00o\x00n\x00F\x00a\x00r\x00R\x00e\x00d\x00
+    Name the output image:\xff\xfeR\x00e\x00s\x00i\x00z\x00e\x00d\x00F\x00a\x00r\x00R\x00e\x00d\x00
+
+SaveImages:[module_num:14|svn_version:\'Unknown\'|variable_revision_number:13|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the type of image to save:\xff\xfeI\x00m\x00a\x00g\x00e\x00
+    Select the image to save:\xff\xfeR\x00e\x00s\x00i\x00z\x00e\x00B\x00l\x00u\x00e\x00
+    Select method for constructing file names:\xff\xfeS\x00e\x00q\x00u\x00e\x00n\x00t\x00i\x00a\x00l\x00 \x00n\x00u\x00m\x00b\x00e\x00r\x00s\x00
+    Select image name for file prefix:\xff\xfeB\x00l\x00u\x00e\x00
+    Enter file prefix:\xff\xfeO\x00r\x00i\x00g\x00B\x00l\x00u\x00e\x00
+    Number of digits:\xff\xfe4\x00
+    Append a suffix to the image file name?:\xff\xfeN\x00o\x00
+    Text to append to the image name:\xff\xfe
+    Saved file format:\xff\xfet\x00i\x00f\x00f\x00
+    Output file location:\xff\xfeD\x00e\x00f\x00a\x00u\x00l\x00t\x00 \x00I\x00n\x00p\x00u\x00t\x00 \x00F\x00o\x00l\x00d\x00e\x00r\x00 \x00s\x00u\x00b\x00-\x00f\x00o\x00l\x00d\x00e\x00r\x00\x7C\x00D\x00E\x00V\x00\\\x00\\\x00G\x00i\x00t\x00H\x00u\x00b\x00\\\x00\\\x00M\x00u\x00l\x00t\x00i\x00P\x00a\x00r\x00s\x00e\x00N\x00D\x002\x00\\\x00\\\x00d\x00a\x00t\x00a\x00s\x00e\x00t\x00s\x00\\\x00\\\x00o\x00u\x00t\x00p\x00u\x00t\x00_\x00C\x00P\x00
+    Image bit depth:\xff\xfe8\x00-\x00b\x00i\x00t\x00 \x00i\x00n\x00t\x00e\x00g\x00e\x00r\x00
+    Overwrite existing files without warning?:\xff\xfeY\x00e\x00s\x00
+    When to save:\xff\xfeL\x00a\x00s\x00t\x00 \x00c\x00y\x00c\x00l\x00e\x00
+    Record the file and path information to the saved image?:\xff\xfeY\x00e\x00s\x00
+    Create subfolders in the output folder?:\xff\xfeN\x00o\x00
+    Base image folder:\xff\xfeE\x00l\x00s\x00e\x00w\x00h\x00e\x00r\x00e\x00.\x00.\x00.\x00\x7C\x00
+
+SaveImages:[module_num:15|svn_version:\'Unknown\'|variable_revision_number:13|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the type of image to save:\xff\xfeI\x00m\x00a\x00g\x00e\x00
+    Select the image to save:\xff\xfeR\x00e\x00s\x00i\x00z\x00e\x00d\x00G\x00r\x00e\x00e\x00n\x00
+    Select method for constructing file names:\xff\xfeS\x00e\x00q\x00u\x00e\x00n\x00t\x00i\x00a\x00l\x00 \x00n\x00u\x00m\x00b\x00e\x00r\x00s\x00
+    Select image name for file prefix:\xff\xfeG\x00r\x00e\x00e\x00n\x00
+    Enter file prefix:\xff\xfeO\x00r\x00i\x00g\x00G\x00r\x00e\x00e\x00n\x00
+    Number of digits:\xff\xfe4\x00
+    Append a suffix to the image file name?:\xff\xfeN\x00o\x00
+    Text to append to the image name:\xff\xfe
+    Saved file format:\xff\xfet\x00i\x00f\x00f\x00
+    Output file location:\xff\xfeD\x00e\x00f\x00a\x00u\x00l\x00t\x00 \x00I\x00n\x00p\x00u\x00t\x00 \x00F\x00o\x00l\x00d\x00e\x00r\x00 \x00s\x00u\x00b\x00-\x00f\x00o\x00l\x00d\x00e\x00r\x00\x7C\x00D\x00E\x00V\x00\\\x00\\\x00G\x00i\x00t\x00H\x00u\x00b\x00\\\x00\\\x00M\x00u\x00l\x00t\x00i\x00P\x00a\x00r\x00s\x00e\x00N\x00D\x002\x00\\\x00\\\x00d\x00a\x00t\x00a\x00s\x00e\x00t\x00s\x00\\\x00\\\x00o\x00u\x00t\x00p\x00u\x00t\x00_\x00C\x00P\x00
+    Image bit depth:\xff\xfe8\x00-\x00b\x00i\x00t\x00 \x00i\x00n\x00t\x00e\x00g\x00e\x00r\x00
+    Overwrite existing files without warning?:\xff\xfeY\x00e\x00s\x00
+    When to save:\xff\xfeL\x00a\x00s\x00t\x00 \x00c\x00y\x00c\x00l\x00e\x00
+    Record the file and path information to the saved image?:\xff\xfeY\x00e\x00s\x00
+    Create subfolders in the output folder?:\xff\xfeN\x00o\x00
+    Base image folder:\xff\xfeE\x00l\x00s\x00e\x00w\x00h\x00e\x00r\x00e\x00.\x00.\x00.\x00\x7C\x00
+
+SaveImages:[module_num:16|svn_version:\'Unknown\'|variable_revision_number:13|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the type of image to save:\xff\xfeI\x00m\x00a\x00g\x00e\x00
+    Select the image to save:\xff\xfeR\x00e\x00s\x00i\x00z\x00e\x00d\x00R\x00e\x00d\x00
+    Select method for constructing file names:\xff\xfeS\x00e\x00q\x00u\x00e\x00n\x00t\x00i\x00a\x00l\x00 \x00n\x00u\x00m\x00b\x00e\x00r\x00s\x00
+    Select image name for file prefix:\xff\xfeR\x00e\x00d\x00
+    Enter file prefix:\xff\xfeO\x00r\x00i\x00g\x00R\x00e\x00d\x00
+    Number of digits:\xff\xfe4\x00
+    Append a suffix to the image file name?:\xff\xfeN\x00o\x00
+    Text to append to the image name:\xff\xfe
+    Saved file format:\xff\xfet\x00i\x00f\x00f\x00
+    Output file location:\xff\xfeD\x00e\x00f\x00a\x00u\x00l\x00t\x00 \x00I\x00n\x00p\x00u\x00t\x00 \x00F\x00o\x00l\x00d\x00e\x00r\x00 \x00s\x00u\x00b\x00-\x00f\x00o\x00l\x00d\x00e\x00r\x00\x7C\x00D\x00E\x00V\x00\\\x00\\\x00G\x00i\x00t\x00H\x00u\x00b\x00\\\x00\\\x00M\x00u\x00l\x00t\x00i\x00P\x00a\x00r\x00s\x00e\x00N\x00D\x002\x00\\\x00\\\x00d\x00a\x00t\x00a\x00s\x00e\x00t\x00s\x00\\\x00\\\x00o\x00u\x00t\x00p\x00u\x00t\x00_\x00C\x00P\x00
+    Image bit depth:\xff\xfe8\x00-\x00b\x00i\x00t\x00 \x00i\x00n\x00t\x00e\x00g\x00e\x00r\x00
+    Overwrite existing files without warning?:\xff\xfeY\x00e\x00s\x00
+    When to save:\xff\xfeL\x00a\x00s\x00t\x00 \x00c\x00y\x00c\x00l\x00e\x00
+    Record the file and path information to the saved image?:\xff\xfeY\x00e\x00s\x00
+    Create subfolders in the output folder?:\xff\xfeN\x00o\x00
+    Base image folder:\xff\xfeE\x00l\x00s\x00e\x00w\x00h\x00e\x00r\x00e\x00.\x00.\x00.\x00\x7C\x00
+
+SaveImages:[module_num:17|svn_version:\'Unknown\'|variable_revision_number:13|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the type of image to save:\xff\xfeI\x00m\x00a\x00g\x00e\x00
+    Select the image to save:\xff\xfeR\x00e\x00s\x00i\x00z\x00e\x00d\x00F\x00a\x00r\x00R\x00e\x00d\x00
+    Select method for constructing file names:\xff\xfeS\x00e\x00q\x00u\x00e\x00n\x00t\x00i\x00a\x00l\x00 \x00n\x00u\x00m\x00b\x00e\x00r\x00s\x00
+    Select image name for file prefix:\xff\xfeF\x00a\x00r\x00R\x00e\x00d\x00
+    Enter file prefix:\xff\xfeO\x00r\x00i\x00g\x00F\x00a\x00r\x00R\x00e\x00d\x00
+    Number of digits:\xff\xfe4\x00
+    Append a suffix to the image file name?:\xff\xfeN\x00o\x00
+    Text to append to the image name:\xff\xfe
+    Saved file format:\xff\xfet\x00i\x00f\x00f\x00
+    Output file location:\xff\xfeD\x00e\x00f\x00a\x00u\x00l\x00t\x00 \x00I\x00n\x00p\x00u\x00t\x00 \x00F\x00o\x00l\x00d\x00e\x00r\x00 \x00s\x00u\x00b\x00-\x00f\x00o\x00l\x00d\x00e\x00r\x00\x7C\x00D\x00E\x00V\x00\\\x00\\\x00G\x00i\x00t\x00H\x00u\x00b\x00\\\x00\\\x00M\x00u\x00l\x00t\x00i\x00P\x00a\x00r\x00s\x00e\x00N\x00D\x002\x00\\\x00\\\x00d\x00a\x00t\x00a\x00s\x00e\x00t\x00s\x00\\\x00\\\x00o\x00u\x00t\x00p\x00u\x00t\x00_\x00C\x00P\x00
+    Image bit depth:\xff\xfe8\x00-\x00b\x00i\x00t\x00 \x00i\x00n\x00t\x00e\x00g\x00e\x00r\x00
+    Overwrite existing files without warning?:\xff\xfeY\x00e\x00s\x00
+    When to save:\xff\xfeL\x00a\x00s\x00t\x00 \x00c\x00y\x00c\x00l\x00e\x00
+    Record the file and path information to the saved image?:\xff\xfeY\x00e\x00s\x00
+    Create subfolders in the output folder?:\xff\xfeN\x00o\x00
+    Base image folder:\xff\xfeE\x00l\x00s\x00e\x00w\x00h\x00e\x00r\x00e\x00.\x00.\x00.\x00\x7C\x00
+
+ExportToSpreadsheet:[module_num:18|svn_version:\'Unknown\'|variable_revision_number:12|show_window:False|notes:\x5B\x5D|batch_state:array(\x5B\x5D, dtype=uint8)|enabled:True|wants_pause:False]
+    Select the column delimiter:\xff\xfeC\x00o\x00m\x00m\x00a\x00 \x00(\x00""\x00,\x00""\x00)\x00
+    Add image metadata columns to your object data file?:\xff\xfeN\x00o\x00
+    Select the measurements to export:\xff\xfeN\x00o\x00
+    Calculate the per-image mean values for object measurements?:\xff\xfeN\x00o\x00
+    Calculate the per-image median values for object measurements?:\xff\xfeN\x00o\x00
+    Calculate the per-image standard deviation values for object measurements?:\xff\xfeN\x00o\x00
+    Output file location:\xff\xfeD\x00e\x00f\x00a\x00u\x00l\x00t\x00 \x00I\x00n\x00p\x00u\x00t\x00 \x00F\x00o\x00l\x00d\x00e\x00r\x00 \x00s\x00u\x00b\x00-\x00f\x00o\x00l\x00d\x00e\x00r\x00\x7C\x00D\x00E\x00V\x00\\\x00\\\x00G\x00i\x00t\x00H\x00u\x00b\x00\\\x00\\\x00M\x00u\x00l\x00t\x00i\x00P\x00a\x00r\x00s\x00e\x00N\x00D\x002\x00\\\x00\\\x00b\x00e\x00n\x00c\x00h\x00m\x00a\x00r\x00k\x00s\x00
+    Create a GenePattern GCT file?:\xff\xfeN\x00o\x00
+    Select source of sample row name:\xff\xfeM\x00e\x00t\x00a\x00d\x00a\x00t\x00a\x00
+    Select the image to use as the identifier:\xff\xfeN\x00o\x00n\x00e\x00
+    Select the metadata to use as the identifier:\xff\xfeN\x00o\x00n\x00e\x00
+    Export all measurement types?:\xff\xfeY\x00e\x00s\x00
+    Press button to select measurements:\xff\xfe
+    Representation of Nan/Inf:\xff\xfeN\x00a\x00N\x00
+    Add a prefix to file names?:\xff\xfeY\x00e\x00s\x00
+    Filename prefix:\xff\xfeN\x00D\x002\x00t\x00i\x00f\x00f\x00_\x00C\x00P\x00_\x003\x00C\x00o\x00r\x00e\x00_\x001\x001\x00_\x00E\x002\x00_\x00
+    Overwrite existing files without warning?:\xff\xfeN\x00o\x00
+    Data to export:\xff\xfeD\x00o\x00 \x00n\x00o\x00t\x00 \x00u\x00s\x00e\x00
+    Combine these object measurements with those of the previous object?:\xff\xfeN\x00o\x00
+    File name:\xff\xfeD\x00A\x00T\x00A\x00.\x00c\x00s\x00v\x00
+    Use the object name for the file name?:\xff\xfeY\x00e\x00s\x00
+"
+Run_Timestamp,2020-02-26T12:08:28.186000

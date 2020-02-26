@@ -1,0 +1,89 @@
+New Export session:
+43 series in C:\Users\WolfgangPernice\DEV\GitHub\MultiParseND2\datasets\input\43\2019-8-14_24W-S3a-A1_008.nd2
+saved BF image for 2019-8-14_24W-S3a-A1_008_1
+13:57:48: Saved Stack for2019-8-14_24W-S3a-A1_008_1/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_2
+13:57:58: Saved Stack for2019-8-14_24W-S3a-A1_008_2/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_3
+13:58:08: Saved Stack for2019-8-14_24W-S3a-A1_008_3/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_4
+13:58:18: Saved Stack for2019-8-14_24W-S3a-A1_008_4/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_5
+13:58:27: Saved Stack for2019-8-14_24W-S3a-A1_008_5/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_6
+13:58:37: Saved Stack for2019-8-14_24W-S3a-A1_008_6/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_7
+13:58:46: Saved Stack for2019-8-14_24W-S3a-A1_008_7/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_8
+13:58:56: Saved Stack for2019-8-14_24W-S3a-A1_008_8/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_9
+13:59:05: Saved Stack for2019-8-14_24W-S3a-A1_008_9/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_10
+13:59:15: Saved Stack for2019-8-14_24W-S3a-A1_008_10/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_11
+13:59:25: Saved Stack for2019-8-14_24W-S3a-A1_008_11/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_12
+13:59:34: Saved Stack for2019-8-14_24W-S3a-A1_008_12/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_13
+13:59:44: Saved Stack for2019-8-14_24W-S3a-A1_008_13/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_14
+13:59:54: Saved Stack for2019-8-14_24W-S3a-A1_008_14/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_15
+14:00:03: Saved Stack for2019-8-14_24W-S3a-A1_008_15/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_16
+14:00:13: Saved Stack for2019-8-14_24W-S3a-A1_008_16/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_17
+14:00:23: Saved Stack for2019-8-14_24W-S3a-A1_008_17/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_18
+14:00:34: Saved Stack for2019-8-14_24W-S3a-A1_008_18/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_19
+14:00:44: Saved Stack for2019-8-14_24W-S3a-A1_008_19/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_20
+14:00:54: Saved Stack for2019-8-14_24W-S3a-A1_008_20/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_21
+14:01:05: Saved Stack for2019-8-14_24W-S3a-A1_008_21/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_22
+14:01:15: Saved Stack for2019-8-14_24W-S3a-A1_008_22/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_23
+14:01:26: Saved Stack for2019-8-14_24W-S3a-A1_008_23/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_24
+14:01:37: Saved Stack for2019-8-14_24W-S3a-A1_008_24/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_25
+14:01:49: Saved Stack for2019-8-14_24W-S3a-A1_008_25/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_26
+14:02:00: Saved Stack for2019-8-14_24W-S3a-A1_008_26/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_27
+14:02:12: Saved Stack for2019-8-14_24W-S3a-A1_008_27/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_28
+14:02:23: Saved Stack for2019-8-14_24W-S3a-A1_008_28/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_29
+14:02:35: Saved Stack for2019-8-14_24W-S3a-A1_008_29/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_30
+14:02:48: Saved Stack for2019-8-14_24W-S3a-A1_008_30/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_31
+14:03:00: Saved Stack for2019-8-14_24W-S3a-A1_008_31/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_32
+14:03:13: Saved Stack for2019-8-14_24W-S3a-A1_008_32/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_33
+14:03:25: Saved Stack for2019-8-14_24W-S3a-A1_008_33/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_34
+14:03:37: Saved Stack for2019-8-14_24W-S3a-A1_008_34/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_35
+14:03:50: Saved Stack for2019-8-14_24W-S3a-A1_008_35/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_36
+14:04:02: Saved Stack for2019-8-14_24W-S3a-A1_008_36/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_37
+14:04:15: Saved Stack for2019-8-14_24W-S3a-A1_008_37/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_38
+14:04:27: Saved Stack for2019-8-14_24W-S3a-A1_008_38/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_39
+14:04:40: Saved Stack for2019-8-14_24W-S3a-A1_008_39/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_40
+14:04:52: Saved Stack for2019-8-14_24W-S3a-A1_008_40/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_41
+14:05:05: Saved Stack for2019-8-14_24W-S3a-A1_008_41/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_42
+14:05:18: Saved Stack for2019-8-14_24W-S3a-A1_008_42/43
+saved BF image for 2019-8-14_24W-S3a-A1_008_43
+14:05:30: Saved Stack for2019-8-14_24W-S3a-A1_008_43/43
+Export : Ends at 14:05:30
