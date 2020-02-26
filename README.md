@@ -1,4 +1,4 @@
-# MultiParseND2
+# PyParseBio
 Pure python scripts to extract and process images from multipoint ND2-files in a parallelized fashion.
 
 ## Installation: 
@@ -8,7 +8,7 @@ To install, clone this repo - PIP upload remains on TODO.
 ## Usage:
 
 ```
-usage: ND2tif.py [-h] [-c [CHANNELS [CHANNELS ...]]] [-z ZPROJECT]
+usage:    PPB.py [-h] [-c [CHANNELS [CHANNELS ...]]] [-z ZPROJECT]
                  [-s [SIZE [SIZE ...]]] [-i ITPL] [-d DTYPE] [-wd WISHDICT]
                  [-t TAG] [-r [RANGE [RANGE ...]]] [-w WORKERS]
                  ND2file outdir
