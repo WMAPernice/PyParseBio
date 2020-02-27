@@ -6,7 +6,7 @@ setup(
   name = 'PyParseBio',
   packages = ['PyParseBio'],
   version = 'v1.1',
-  license='Apache 2.0',
+  license='apache-2.0',
   description = 'Pure-python parralelizable parsing of biological multipoint images',
   author = 'Wolfgang Pernice',
   author_email = 'wolfgang.pernice@gmail.com',
@@ -23,7 +23,7 @@ setup(
     'Development Status :: 3 - Alpha',      	
     'Intended Audience :: Science/Research',      
     'Topic :: Software Development :: Build Tools',
-    'License :: OSI Approved :: Apache 2.0 License',  		
+    'License :: OSI Approved :: apache-2.0',  		
     'Programming Language :: Python :: 3.6',
   ],
 )
