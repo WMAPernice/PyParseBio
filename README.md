@@ -60,7 +60,9 @@ optional arguments:
                         specify number of workers (default: 1)
 ```
 ## Example & Benchmark: 
-You can download an example ND2 (Nikon Elements) file here: [link]. The file contains 11 image-stacks (collected at different XYZ coordinates of a multiwell plate), each consisting of 7-z slices and 5-channels. Run the following to extract the 11 multipoints as individual max-projected images, containing only 4/5 channels in a custom order, resized to 512x512 and converted from 12- to 8-bit tiff-files, parallelizing the work over 6 cores:
+You can download an example ND2 (Nikon Elements) file here: https://nd2tiff.s3-us-west-2.amazonaws.com/2019-9-5_11-Multi-point-test-image_001.zip
+
+The file contains 11 image-stacks (collected at different XYZ coordinates of a multiwell plate), each consisting of 7-z slices and 5-channels. Run the following to extract the 11 multipoints as individual max-projected images, containing only 4/5 channels in a custom order, resized to 512x512 and converted from 12- to 8-bit tiff-files, parallelizing the work over 6 cores:
 ```
 python -W ignore [PATH/TO/PACKAGE/]PPB.py [input/path/] [output/path/] -c 1 2 0 3 -z max_project -s 512 512 -d uint8 -w 6
 ```
