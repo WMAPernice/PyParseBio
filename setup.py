@@ -1,17 +1,17 @@
 from distutils.core import setup
 
-VERSION = 'v1.0-alpha'
+VERSION = 'v1.1'
 
 setup(
   name = 'PyParseBio',
   packages = ['PyParseBio'],
-  version = 'v1.0-alpha',
+  version = 'v1.1',
   license='Apache 2.0',
   description = 'Pure-python parralelizable parsing of biological multipoint images',
   author = 'Wolfgang Pernice',
   author_email = 'wolfgang.pernice@gmail.com',
   url = 'https://github.com/WMAPernice/PyParseBio',
-  download_url = 'https://github.com/WMAPernice/PyParseBio/archive/v1.0-alpha.tar.gz',
+  download_url = 'https://github.com/WMAPernice/PyParseBio/archive/v1.1.tar.gz',
   keywords = ['Biology', 'Microscopy', 'Images', 'Python', 'Parallel'],
   install_requires=[
           'numpy',
