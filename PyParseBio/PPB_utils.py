@@ -22,7 +22,7 @@ def dtype_conversion(image, to_dtype = 'uint16', in_range='image', forcecopy=Fal
         # Loop ensures that if in_range='image', internal min/max must be calculated per-channel, 
         # in order to preserve maximum precision. 
         if len(in_range) == 2: in_range = tuple([int(i) for i in in_range])
-        else: in_range = in_range[0]
+        elif isinstance(in_range, list): in_range = in_range[0]
         for c in range(image.shape[1]): 
             image[:,c,...] = skimage.exposure.rescale_intensity(image[:,c,...], in_range=in_range)
 
