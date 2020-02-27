@@ -73,5 +73,5 @@ The following benchmark results of PyParseBio (PPB) against CellProfiler were cr
 
 ![PPB Benchmark vs CP](https://github.com/WMAPernice/PyParseBio/blob/master/PPB_Benchmark_v1.0.png)
 
-You can find the CellProfiler Pipeline and relevant scripts for running CellProfiler in headless mode in the PPB_benchmarks folder of this repo. 
+To recapitulate these results yourself, you can find the relevant CellProfiler pipeline and scripts for running CP in headless mode in the PPB_benchmarks folder of this repo. 
 
