@@ -11,7 +11,7 @@ setup(
   author = 'Wolfgang Pernice',
   author_email = 'wolfgang.pernice@gmail.com',
   url = 'https://github.com/WMAPernice/PyParseBio',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/WMAPernice/PyParseBio/archive/v0.1.tar.gz',
   keywords = ['Biology', 'Microscopy', 'Images', 'Python', 'Parallel'],
   install_requires=[
           'numpy',
