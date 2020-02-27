@@ -64,7 +64,7 @@ You can download an example ND2 (Nikon Elements) file here: [link]. The file con
 ```
 python -W ignore nd2tif.py datasets/input/11/ datasets/output_test/ -c 1 2 0 3 -z max_project -s 512 512 -d uint8 -w 6
 ```
-The following benchmark results of PyParseBio (PPB) against CellProfiler were created using the exact 11-multipoint ND2 file provided in the download link above, as well as another 43-multipoint ND2 file with the same dimensions. You can find the CellProfiler Pipeline and relevant scripts for running CellProfiler in headless mode in the benchmarks-folder of this repo. 
+The following benchmark results of PyParseBio (PPB) against CellProfiler were created using the exact 11-multipoint ND2 file provided in the download link above, as well as another 43-multipoint ND2 file with the same dimensions. You can find the CellProfiler Pipeline and relevant scripts for running CellProfiler in headless mode in the PPB_benchmarks folder of this repo. 
 
 ![PPB Benchmark vs CP](https://github.com/WMAPernice/PyParseBio/blob/master/PPB_Benchmark_v1.0.png)
 
