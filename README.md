@@ -13,7 +13,9 @@ Intergrated features:
 ## Installation: 
 
 ### PIP:
-asdasd
+```
+pip install PyParseBio==v1.1.2
+```
 ### Anaconda:
 TODO
 ### Dev installation:
