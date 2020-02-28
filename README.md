@@ -15,7 +15,7 @@ Note: currently only works with Nikon Elements ND2 files with .tiff stacks as ou
 
 ### PIP:
 ```
-pip install PyParseBio==v1.1.2
+pip install PyParseBio
 ```
 ### Anaconda:
 TODO
