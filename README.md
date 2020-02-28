@@ -1,7 +1,7 @@
 ![PPB icon](https://github.com/WMAPernice/PyParseBio/blob/master/PPB_Logo_v1.0.png)
 
 # PyParseBio
-Simple and fast pure-python scripts to extract and process images from multipoint microscopy-files in a parallelized fashion. Extracts and converts images from e.g. ND2 multipoint files to tiffs through various preprocessing steps, e.g. to prepare machine-learning projects. PPB consistently runs at 3-4x the speed of CellProfiler in headless mode. Point it at a folder of multipoint files and have PPB blaze through them :rocket: 
+Simple and fast pure-python scripts to extract and process images from multipoint microscopy-files in a parallelized fashion. Extracts and converts images from e.g. ND2 multipoint files to tiffs through various preprocessing steps, e.g. to prepare machine-learning projects. PPB consistently runs at 10x the speed of FIJI and 3-4x the speed CellProfiler in headless mode. Point it at a folder of multipoint files and have PPB blaze through them :rocket: 
 
 Intergrated features:  
 - data-type conversions
