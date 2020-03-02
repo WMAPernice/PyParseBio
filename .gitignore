@@ -6,6 +6,8 @@
 *_DATA
 .DS_Store
 .vscode/
+.MANIFEST
+.dist/
 runs/
 __pycache__/
 .ipynb_checkpoints/
