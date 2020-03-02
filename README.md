@@ -76,3 +76,6 @@ optional arguments:
   -w WORKERS, --workers WORKERS
                         specify number of workers (default: 1)
 ```
+## Acknowledgments: 
+- Broad Institute of MIT/Harvard (Carpenter lab)
+- Columbia University (Hirano lab)
