@@ -1,11 +1,9 @@
 import os
-import copy
 import numpy as np
 import skimage.util
 import skimage.exposure
 import skimage.transform
-from skimage.external import tifffile
-from nd2reader import ND2Reader
+from skimage import io
 
 def dtype_conversion(image, to_dtype = 'uint16', in_range='image', forcecopy=False):
 
@@ -73,7 +71,7 @@ def resize(im, size, order=3):
     
     # reshape to shape (x,y,c,z) expected by skimage
     im = np.transpose(im) 
-    
+
     # for z-stacks:
     if im.ndim == 4:
         im = np.stack([skimage.transform.resize(im[...,z], size, order) for z in range(im.shape[3])], axis=3)
@@ -100,5 +98,6 @@ def selectch(im, channels: list, copychannels=False):
         return im[:,chs,...]
 
 def savetiff(im, out_path, res=None, addMeta=None, verbose=False):
-    tifffile.imsave(out_path, im, resolution = (res, res, None), metadata = addMeta, imagej=True)
+    io.imsave(out_path, im, resolution = (res, res, None), metadata = addMeta,
+              imagej=True, plugin="tifffile", check_contrast=False, photometric="MINISBLACK", planarconfig="CONTIG")
     if verbose: print(f"Saved file: {out_path}")
