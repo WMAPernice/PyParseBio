@@ -5,7 +5,6 @@ import argparse
 from tqdm import tqdm
 from multiprocessing.pool import Pool
 from nd2reader import ND2Reader
-from skimage.external import tifffile 
 from PPB_utils import *
 
 def ParseMultiPoint(pid, in_path, out_path, start, end, channels=None, zproject=None, size=None, itpl=3, to_dtype='uint8', in_range='image',
@@ -55,8 +54,7 @@ def ParseMultiPoint(pid, in_path, out_path, start, end, channels=None, zproject=
                 # Saving:
                 fpath = f"{out_path}_{str(start + v)}.tiff"
                 savetiff(im, fpath, res, addMeta)
-        except: logging.exception('Exception occured: ')
-            
+        except: logging.exception('Exception occured: ')            
 
 if __name__ == '__main__':
 
@@ -86,10 +84,13 @@ if __name__ == '__main__':
     parser.add_argument('-w', '--workers', type=int, default=1, help='specify number of workers (default: 1)')
     params = parser.parse_args()
 
+    if not os.path.exists(params.outdir): os.mkdir(params.outdir)
+
     flist = [params.indir + f for f in os.listdir(params.indir) if f.split('.')[-1] == 'nd2']
     for ND2file in flist:
         t00 = time.time()
         # setup list_len and naming:
+        x = ND2Reader(ND2file)
         with ND2Reader(ND2file) as images:
             images.bundle_axes = 'zcyx'
             images.iter_axes = 'v'
@@ -105,8 +106,9 @@ if __name__ == '__main__':
             fn = os.path.basename(images.filename)
             assert len(fn.split('_')) == 3, \
             'Please name your files according to: [yyyy-m-d_Plate-de-script-tion_Idx.nd2]'
-            fn = '_'.join(fn.split('_')[1:3]).split('.')[0]
-            if params.tag: fn = f"{fn}_{params.tag}"
+            fn = fn.split('.')
+            if len(fn)>2: fn = ".".join(fn[:-1])
+            else: fn = fn[0]
             out_path = params.outdir + fn
             
         

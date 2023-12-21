@@ -9,6 +9,8 @@
 *MANIFEST
 *dist/
 runs/
+*MANIFEST
+*dist/
 __pycache__/
 .ipynb_checkpoints/
 datasets/
