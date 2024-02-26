@@ -52,7 +52,7 @@ def ParseMultiPoint(pid, in_path, out_path, start, end, channels=None, zproject=
                         im = dtype_conversion(im[None,...], to_dtype, in_range=in_range, forcecopy=False)
 
                 # Saving:
-                fpath = f"{out_path}_{str(start + v)}.tiff"
+                fpath = f"{out_path}_{str(start + v).zfill(3)}.tiff"
                 savetiff(im, fpath, res, addMeta)
         except: logging.exception('Exception occured: ')            
 
